@@ -3,14 +3,15 @@
     "type": "library",
     "description": "Book CRUD",
     "keywords": [
-        "VienNguyen113"
+        "VienNguyen113",
+        "manage-book"
     ],
     "homepage": "https://github.com/VienNguyen113/BookCRUD",
     "license": "MIT",
     "authors": [
         {
-            "name": ":Nguyen Luong Vien",
-            "email": ":luongvien13t2@gmail.com",
+            "name": "Nguyen Luong Vien",
+            "email": "luongvien13t2@gmail.com",
             "role": "Developer"
         }
     ],
